@@ -1,0 +1,16 @@
+backend/.env
+
+.env
+
+backend/.erlang.cookie
+
+# pycharm
+.idea
+
+# cpython
+__pycache__/
+*.pyc
+
+django_backend/.env
+
+venvs
